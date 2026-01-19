@@ -5,5 +5,6 @@ librosa>=0.10.0
 soundfile>=0.12.0
 customtkinter>=5.2.0
 moviepy>=1.0.3
+imageio-ffmpeg>=0.4.9
 PyOpenGL>=3.1.6
 proglog>=0.1.10

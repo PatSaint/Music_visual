@@ -145,10 +145,8 @@ python main.py
 - `ui_components.py` - UI widgets and dialogs
 - `config_manager.py` - Configuration persistence
 
-### Performance
-- **Real-time**: 60+ FPS on modern GPUs
-- **Export**: Depends on resolution and visualizer complexity
-- **Memory**: ~500MB typical usage
+### Video Export & FFmpeg
+The application uses `moviepy` and `imageio-ffmpeg` for video rendering. You **don't need** to install FFmpeg manually; it will be downloaded automatically the first time you run the export.
 
 ## 📋 Requirements
 
