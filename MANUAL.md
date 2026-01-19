@@ -53,6 +53,7 @@ Este comando instalará automáticamente:
 - `soundfile` - Lectura de archivos de audio
 - `customtkinter` - Interfaz gráfica moderna
 - `moviepy` - Exportación de videos
+- `imageio-ffmpeg` - Manejo automático de FFmpeg (sin descargas manuales)
 - `PyOpenGL` - Renderizado GPU
 - `proglog` - Barras de progreso
 
